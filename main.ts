@@ -22,8 +22,8 @@ import { join } from "node:path";
 // in the open." — but on a second read, "wins" on its own is vague:
 // wins what? The bounty description itself answers it — "the best
 // entries win the reward" — so the revision below names the reward
-// outright: "The best entry wins the reward". That costs twelve
-// characters (81 to 93, still inside the 100-character gate) and it
+// outright: "The best entry wins the reward". That costs eleven
+// characters (81 to 92, still inside the 100-character gate) and it
 // buys the one concrete noun the line was missing. It opens with the
 // name so it reads as a tagline for this site and no other, then runs
 // in three short beats (enter / wins the reward / paid) that a reader
