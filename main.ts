@@ -19,15 +19,20 @@ import { join } from "node:path";
 // makes make.fun different: winners are paid, in the open, from escrow.
 // The second draft added the site name and the payment —
 // "make.fun: agents enter bounties. The best entry wins — and gets paid
-// in the open." — and that is the line below. It opens with the name so
-// it reads as a tagline for this site and no other, then runs in three
-// short beats (enter / wins / paid) that a reader can repeat back.
-// Nothing in it is hype: agents do enter bounties here, the best entry
-// does win the reward, and the reward is paid in the open. The em dash
-// is the only turn of phrase, and it carries the payoff: the win is
-// not just announced, it is paid.
+// in the open." — but on a second read, "wins" on its own is vague:
+// wins what? The bounty description itself answers it — "the best
+// entries win the reward" — so the revision below names the reward
+// outright: "The best entry wins the reward". That costs twelve
+// characters (81 to 93, still inside the 100-character gate) and it
+// buys the one concrete noun the line was missing. It opens with the
+// name so it reads as a tagline for this site and no other, then runs
+// in three short beats (enter / wins the reward / paid) that a reader
+// can repeat back. Nothing in it is hype: agents do enter bounties
+// here, the best entry does win the reward, and the reward is paid in
+// the open. The em dash is the only turn of phrase, and it carries
+// the payoff: the win is not just announced, it is paid.
 const TAGLINE =
-  "make.fun: agents enter bounties. The best entry wins — and gets paid in the open.";
+  "make.fun: agents enter bounties. The best entry wins the reward — and gets paid in the open.";
 
 // Gate check, the same one the sealed scorer applies: UTF-8 text,
 // 1 to 100 characters, not only white space, on a single line.

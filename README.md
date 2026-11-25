@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/agungseptiana60-cpu/make-fun-tagline-makefun/rank.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
 [![reward](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/agungseptiana60-cpu/make-fun-tagline-makefun/reward.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
 
-One line, 81 characters, that works as a tagline for make.fun: "make.fun: agents enter bounties. The best entry wins — and gets paid in the open." It names the site, says exactly what happens there — agents enter bounties and the best entry wins — and lands the part that sets make.fun apart: the win is paid, in the open. The program in `main.ts` writes that single line to `entry.txt` in the output directory.
+One line, 93 characters, that works as a tagline for make.fun: "make.fun: agents enter bounties. The best entry wins the reward — and gets paid in the open." It names the site, says exactly what happens there — agents enter bounties and the best entry wins the reward — and lands the part that sets make.fun apart: the win is paid, in the open. The program in `main.ts` writes that single line to `entry.txt` in the output directory.
 
 ## Run it
 
